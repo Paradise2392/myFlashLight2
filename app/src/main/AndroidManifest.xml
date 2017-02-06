@@ -6,9 +6,9 @@
         android:minSdkVersion="14"
         android:targetSdkVersion="23" />
 
-    <uses-permission android:name="android.permision.CAMERA" />
-    <uses-permission android:name="android.permision.FLASHLIGHT" />
-    <uses-permission android:name="android.harware.camera" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.hardware.camera" />
 
 
     <application
